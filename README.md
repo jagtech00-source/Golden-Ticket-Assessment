@@ -2,9 +2,13 @@
 
 Restaurant launch platform and operational playbooks from Chef Jeff Golden / Golden Rule Consulting.
 
-**Live site:** https://jagtech00-source.github.io/Golden-Ticket-Assessment/
+**Live site:** https://jagtech00-source.github.io/Golden-Ticket/
 
-Free readiness assessment, 9-phase NY blueprint (LLC → first 30 days), 20 clickable operational playbooks with full instructions and checklists, inspection simulator, food-protection quiz, trucks & carts, ESD / thINCubator resources.
+Mirror: https://jagtech00-source.github.io/goldens-ticket.html/
+
+Source repo: https://github.com/jagtech00-source/Golden-Ticket-Assessment
+
+Free readiness assessment, 9-phase NY blueprint (LLC → first 30 days), **20 clickable operational playbooks** with full instructions and checklists, inspection simulator, food-protection quiz, trucks & carts, ESD / thINCubator resources.
 
 Progress saves in the browser.
 
